@@ -1,0 +1,16 @@
+[
+    {
+        "name": "asdf",
+        "email": "asd@fgh.jkl",
+        "password": "$2b$10$.iavKd4uU1XszewCN/GameHovUflIPN4CoVo6O.XN5xJVJU7lu6q6",
+        "created_data": "2020-08-06T10:10:09.938+00:00",
+        "__v": 0
+    },
+    {
+        "name": "final",
+        "email": "fin@fgh2.jkl",
+        "password": "$2b$10$BFRmLNvoB9fxvjo2Yg4VUe0CFFnQmTf4cr3wzUFzcb/b9bGxvaWpq",
+        "created_data": "2020-08-06T13:59:26.019+00:00",
+        "__v": 0
+    }
+]
