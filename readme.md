@@ -10,5 +10,9 @@ Steps to run this repo locally:-><br>
 	-> If node is not installed then install it.<br>
 	-> run `npm install` to install all the node_modules.<br>
 	-> run `npm run test`.<br><br>
+Steps to run test Suites:-><br>
+-> Open project.<br>
+-> run `npm install`<br>
+-> run `jest test/unit/* --coverage`<br>
 To See all the Test Suites that, I have created goto `test/unit` for unit tests and `test\integration` for integration tests.<br> 
 To get the code coverage report goto `coverage/lcov-report` and open `index.html` in your browser.<br>
