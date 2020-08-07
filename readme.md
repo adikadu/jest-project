@@ -1,4 +1,11 @@
 In this repo, I have created some end points using node and express and then created test suites for those end points with <a href="https://jestjs.io/">Jest</a><br><br>
+Routes present in this project is:-<br>
+    -> get, api/contact<br>
+    -> post, api/contact<br>
+    -> get, api/contact/:id<br>
+    -> put, api/contact/:id<br>
+    -> delete, api/contact/:id<br>
+    -> post, api/contact/login<br><br>
 Steps to run this repo locally:-><br>
 	-> If node is not installed then install it.<br>
 	-> run `npm install` to install all the node_modules.<br>
